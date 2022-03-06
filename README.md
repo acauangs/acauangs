@@ -1,4 +1,4 @@
-<h1>-Oi, Me chamo Acauan Gomes!</h1>
+<h1>-Eu sou Acauan</h1>
 <p>- 🔭 Atualmente trabalho na empresa Castgroup<br>
 - 🌱 Atualmente estudo Python com Django<br>
 - 💬 Qualquer duvida pode entrar em contato comigo<br>

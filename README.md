@@ -1,5 +1,5 @@
 <h1>-Eu sou Acauan</h1>
-<p>- 🔭 Atualmente trabalho na empresa Castgroup<br>
+<p>- 🔭 Atualmente trabalho na empresa Desk Manager<br>
 - 🌱 Atualmente estudo Python com Django<br>
 - 💬 Qualquer duvida pode entrar em contato comigo<br>
 - 😄 Pronouns: Ele/Dele<br></p>

@@ -1,14 +1,17 @@
-<h1>-Eu sou Acauan</h1>
-<p>- 🔭 Atualmente trabalho na empresa Desk Manager<br>
-- 🌱 Atualmente estudo Python com Django<br>
-- 💬 Qualquer duvida pode entrar em contato comigo<br>
-- 😄 Pronouns: Ele/Dele<br></p>
-<h2>Conhecimento nas linguagens abaixo</h2>
+<h1>Eu sou Acauan 🤙</h1>
+<p>- Atualmente trabalho na empresa Desk Manager<br>
+- Estudante Python e Django<br>
+- Qualquer duvida pode entrar em contato comigo pelos canais abaixo <br>
+- Pronouns: Ele/Dele<br></p>
+<h2>Conhecimento nas tecnologias:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+
+  
 </div>
   
   ##
